@@ -4,7 +4,7 @@ This cartridge runs Artifactory on OpenShift
 
 ### Installation
 
-    rhc create-app YOUR_APP_NAME https://cartreflect-claytondev.rhcloud.com/reflect?github=svsa/openshift-community-artifactory
+    rhc create-app YOUR_APP_NAME http://cartreflect-claytondev.rhcloud.com/github/svsa/openshift-community-artifactory
 
 Give some time to start up...
 
