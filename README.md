@@ -4,7 +4,7 @@ This cartridge runs Artifactory on OpenShift
 
 ### Installation
 
-    rhc create-app YOUR_APP_NAME https://cartreflect-claytondev.rhcloud.com/reflect?github=andershedstrom/openshift-community-artifactory
+    rhc create-app YOUR_APP_NAME https://cartreflect-claytondev.rhcloud.com/reflect?github=svsa/openshift-community-artifactory
 
 Give some time to start up...
 
@@ -15,3 +15,5 @@ For the Artifactory user guide please visit: [Jfrog wiki](http://wiki.jfrog.org/
 
     username: admin
     password: password
+
+Based entirely on andershedstrom/openshift-community-artifactory, just switches off https
