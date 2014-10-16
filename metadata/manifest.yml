@@ -2,7 +2,7 @@
 Name: artifactory
 Vendor: JFrog Inc
 Cartridge-Short-Name: ARTIFACTORY
-Source-Url: git@github.com/svsa/openshift-community-artifactory.git
+Source-Url: git@github.com:svsa/openshift-community-artifactory.git
 Display-Name: Artifactory Repository Manager
 Description: Meet Artifactory, the world’s most advanced repository manager. Artifactory
   offers powerful enterprise features and fine-grained permission control behind a sleek
